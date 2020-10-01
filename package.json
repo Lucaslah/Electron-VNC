@@ -1,0 +1,22 @@
+{
+  "name": "electron-quick-start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "your git repo url, or leave blank if you have none",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "XRScripts",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^10.1.3"
+  }
+}
