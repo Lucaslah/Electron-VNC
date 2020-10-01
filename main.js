@@ -13,10 +13,10 @@ function createWindow () {
   })
 
   // and load the index.html of the app.
-  mainWindow.loadFile('index.html')
+//  mainWindow.loadFile('index.html')
 
   // and load the a website into your app. uncomment and comment above load index.html if needed.
- // mainWindow.loadFile('https://github.com')
+ mainWindow.loadFile('http://localhost:6854')
   
   // Open the DevTools.
   // mainWindow.webContents.openDevTools()
