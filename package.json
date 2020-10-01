@@ -1,21 +1,17 @@
 {
-  "name": "electron-quick-start",
+  "name": "electron-vnc",
   "version": "1.0.0",
-  "description": "",
+  "description": "A VNC viewer build with Nodejs & Electron.",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "your git repo url, or leave blank if you have none",
+  "repository": "https://github.com/lucaslah/electron-vnc",
   "keywords": [
-    "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "Electron"
   ],
-  "author": "XRScripts",
-  "license": "CC0-1.0",
+  "author": "Lucas",
+  "license": "MIT",
   "devDependencies": {
     "electron": "^10.1.3"
   }
