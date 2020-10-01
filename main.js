@@ -16,7 +16,7 @@ function createWindow () {
 //  mainWindow.loadFile('index.html')
 
   // and load the a website into your app. uncomment and comment above load index.html if needed.
- mainWindow.loadFile('http://localhost:6854')
+ mainWindow.loadFile('http://localhost:6080/vnc.html')
   
   // Open the DevTools.
   // mainWindow.webContents.openDevTools()
